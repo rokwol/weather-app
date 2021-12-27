@@ -1,0 +1,28 @@
+.currentDetails {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.currentDetails ul {
+  font-size: 13px;
+  margin: 10px 0;
+  padding: 0;
+}
+
+.Current li:first-letter {
+  text-transform: capitalize;
+}
+
+.Current h1 {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 30px;
+  color: rgb(45, 29, 134);
+  margin-top: 5px;
+}
+
+.Current ul {
+  list-style: none;
+  line-height: 20px;
+  color: rgb(81, 80, 92);
+}

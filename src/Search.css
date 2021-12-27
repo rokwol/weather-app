@@ -1,0 +1,20 @@
+.Search .searchInput {
+  border-radius: 8px;
+  padding: 5px 10px;
+  border: none;
+}
+.Search .searchButton {
+  background: rgb(45, 29, 134);
+  color: #ffffff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 7px;
+  transition: all 200ms ease-in-out;
+  text-align: center;
+}
+
+.Search .searchButton:hover {
+  background: #797cb9;
+  color: #ffffff;
+  cursor: pointer;
+}

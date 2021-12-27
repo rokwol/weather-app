@@ -1,5 +1,5 @@
 import React from "react";
-// import "./Temperature.css";
+import "./Temperature.css";
 
 export default function Temperature() {
   let weatherData = {

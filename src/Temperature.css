@@ -1,0 +1,29 @@
+.Temperature .weatherDetails {
+  font-size: 12px;
+  margin-top: 20px;
+  margin-left: 10px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.Temperature .currentWeather img {
+  max-width: 100px;
+  position: relative;
+  right: 15px;
+}
+.Temperature .currentWeather strong {
+  font-size: 64px;
+  font-weight: 400;
+  color: rgb(45, 29, 134);
+}
+
+.Temperature a {
+  text-decoration: none;
+  color: rgb(45, 29, 134);
+}
+
+.Temperature .currentWeather .units {
+  font-size: 16px;
+  position: relative;
+  top: -33px;
+}

@@ -1,5 +1,5 @@
 import React from "react";
-// import "./Current.css";
+import "./Current.css";
 
 export default function Current() {
   let weatherDetails = {

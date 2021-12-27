@@ -1,0 +1,26 @@
+.Forecast .weatherForecast {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.Forecast .weatherForecastDate {
+  font-size: 16px;
+  color: rgb(45, 29, 134);
+}
+
+.Forecast .weatherForecastTemps {
+  font-size: 13px;
+}
+
+.Forecast .forecastTempMax {
+  color: rgb(45, 29, 134);
+}
+
+.Forecast .forecastTempMin {
+  opacity: 0.7;
+}
+
+.Forecast .forecast img {
+  display: block;
+  margin: auto;
+}
