@@ -12,14 +12,7 @@ export default function Source() {
         >
           Open source code
         </a>
-        by Roksolana Woloszyn and hosted on
-        <a
-          href="https://adoring-borg-c7614f.netlify.app/"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Netlify.
-        </a>
+        by Roksolana Woloszyn.
       </small>
     </div>
   );
